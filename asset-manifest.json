@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/planner-app/static/css/main.0b6f42a4.css",
+    "main.js": "/planner-app/static/js/main.2c729e53.js",
+    "static/js/453.a7e882e1.chunk.js": "/planner-app/static/js/453.a7e882e1.chunk.js",
+    "index.html": "/planner-app/index.html",
+    "main.0b6f42a4.css.map": "/planner-app/static/css/main.0b6f42a4.css.map",
+    "main.2c729e53.js.map": "/planner-app/static/js/main.2c729e53.js.map",
+    "453.a7e882e1.chunk.js.map": "/planner-app/static/js/453.a7e882e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b6f42a4.css",
+    "static/js/main.2c729e53.js"
+  ]
+}
